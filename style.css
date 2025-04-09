@@ -1,0 +1,25 @@
+* {
+    background-color:#d3d3d3;    
+}
+.link {
+    color: floralwhite;
+    margin: 20px;
+    padding: 20px;
+    border: solid 3px red;
+    border-radius: 10px;
+    text-decoration: dashed; 
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+h1 {
+    color: floralwhite;
+    position: absolute;
+    top: 40%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
